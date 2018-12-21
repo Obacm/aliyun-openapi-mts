@@ -1,0 +1,20 @@
+{
+    "name": "obacm/aliyun-openapi-mts",
+    "description": "阿里云媒体处理",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Obacm",
+            "email": "1129627438@qq.com"
+        }
+    ],
+    "require": {
+        "obacm/aliyun-openapi-core": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Obacm\\OpenMts\\": "src/"
+        }
+    }
+}
