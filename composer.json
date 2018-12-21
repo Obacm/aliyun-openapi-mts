@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "obacm/aliyun-openapi-core": "~1.1"
+        "obacm/aliyun-openapi-core": "~1.2"
     },
     "autoload": {
         "psr-4": {
